@@ -22,8 +22,16 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+
+### ⚡ AI-assisted workflow
+
+With the support of AI tools that help me move faster, prototype quickly, and streamline my development workflow.
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Lovable](https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge)
 
 ---
 
@@ -38,7 +46,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciscojgonzalezfernandez-lgtm&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscojgonzalezfernandez-lgtm&theme=react" />
 </div>
 
