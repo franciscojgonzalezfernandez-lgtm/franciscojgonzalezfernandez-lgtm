@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building full-stack products with **React**, **Next.js**, **TypeScript**, and **Supabase**
+- 💻 Passionate about building full-stack products with **React**, **Next.js**, **TypeScript**, **NodeJS** and **Java**
 - 📦🇨🇭 Recently moved to **Switzerland** and excited to create meaningful impact
 - 🧠 Constantly learning, building, and sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
