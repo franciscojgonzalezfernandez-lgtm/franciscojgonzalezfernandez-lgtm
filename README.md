@@ -47,10 +47,10 @@ With the support of AI tools that help me move faster, prototype quickly, and st
 
 ---
 
-## 🚀 Visita mis proyectos desplegados
+## 🚀 Check Out My Live Projects
 
-| Proyecto | Enlace |
-|----------|--------|
+| Project | Link |
+|---------|------|
 | 📡 Movistar | [movistar.es](https://www.movistar.es) |
 | 🏢 Telefónica Empresas | [telefonicaempresas.es](https://www.telefonicaempresas.es) |
 | 📅 Event Planner | [event-planner-rho-cyan.vercel.app](https://event-planner-rho-cyan.vercel.app/) |
