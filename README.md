@@ -53,6 +53,7 @@ With the support of AI tools that help me move faster, prototype quickly, and st
 |---------|------|
 | 📡 Movistar | [movistar.es](https://www.movistar.es) |
 | 🏢 Telefónica Empresas | [telefonicaempresas.es](https://www.telefonicaempresas.es) |
+| 🏂 Snowboard Booking Platform | [https://rideflumserberg.ch](https://rideflumserberg.ch) |
 | 📅 Event Planner | [event-planner-rho-cyan.vercel.app](https://event-planner-rho-cyan.vercel.app/) |
 | 🔐 Auth Showcase | [react-nextjs-better-auth-showcase.vercel.app](https://react-nextjs-better-auth-showcase.vercel.app/) |
 | 🛍️ React AI Ecommerce | [franciscojgonzalezfernandez-lgtm.github.io](https://franciscojgonzalezfernandez-lgtm.github.io/React-AI-Designed-ecommerce/) |
